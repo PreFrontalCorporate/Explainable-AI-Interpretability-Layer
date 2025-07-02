@@ -29,4 +29,5 @@ This module:
 ## 🧑‍💻 Example usage
 
 ```python
-python financial_xai.py
+python
+xai_financial_shap_demo.py
